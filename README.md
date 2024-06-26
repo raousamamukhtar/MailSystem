@@ -81,18 +81,23 @@ Send an email:
 
 Fill in the recipient's email address, subject, and content.
 Click the "Send Email" button.
-A toast notification will appear indicating the status of the email.
-Technologies Used
-Next.js: A React framework for server-side rendering.
-TypeScript: A statically typed superset of JavaScript.
-Tailwind CSS: A utility-first CSS framework.
-Nodemailer: A module for Node.js applications to send emails.
-React Hot Toast: A React library for toast notifications.
-Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Getting Started
+
+Follow these steps to set up the project on your local machine.
+
+### Prerequisites
+
+- Node.js and npm installed on your machine.
+- A Gmail account for sending emails.
+
+### Installation
+
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/yourusername/my-mail-app.git
+   cd my-mail-app
 
 Acknowledgments
 Next.js
